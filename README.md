@@ -24,3 +24,19 @@ I do also love **watching films and anime** 🎬, **reading books** 📚, **some
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
+
+
+
+
+## 🌏 Languages & Interests
+
+![Vietnamese](https://img.shields.io/badge/Vietnamese-Native-FF0000)
+![English](https://img.shields.io/badge/English-Fluent-1E90FF)
+![Japanese](https://img.shields.io/badge/Japanese-Learning-FF69B4)
+![Finance](https://img.shields.io/badge/Finance-📈-green)
+![Economics](https://img.shields.io/badge/Economics-💹-blue)
+![Anime](https://img.shields.io/badge/Anime-🎬-purple)
+![Reading](https://img.shields.io/badge/Reading-📚-orange)
+![Gaming](https://img.shields.io/badge/Gaming-🎮-yellow)
+
+---
