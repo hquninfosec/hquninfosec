@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-I'm Quân from **Việt Nam** 🇻🇳 — a thoughtful and reflective learner with a passion for **Web Development** 💻, **open-source** 🌐, and sometimes **AI** 🤖 and **Cybersecurity** 🔒.  
+I'm Quân from **Việt Nam** 🇻🇳 — I'm a huge fan of **Web Development** 💻, **open-source** 🌐, and sometimes **AI** 🤖 and **Cybersecurity** 🔒.  
 
 When I'm not crushing bugs 🐛 or building dreams 🚀, I enjoy learning things that capture my attention, such as **finance and economics** 📈, or studying **languages** 🈂️ (currently learning Japanese 🇯🇵).  
 
 I do also love **watching films and anime** 🎬, **reading books** 📚, **sometimes gaming** 🎮, and especially **spending time with my loved ones** ❤️.  
 
-🌱 Always curious, always learning, and always looking for ways to grow personally and professionally.
 
 ---
 
